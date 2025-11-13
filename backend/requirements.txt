@@ -1,0 +1,8 @@
+fastapi
+uvicorn[standard]
+pydantic
+python-multipart
+pillow
+numpy
+opencv-python-headless
+ultralytics==8.2.0
